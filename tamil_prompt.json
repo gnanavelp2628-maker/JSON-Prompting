@@ -1,0 +1,42 @@
+{
+    "subject": "A Tamil woman drawing a traditional white rice-flour kolam at the entrance of her ancestral home",
+    "setting": {
+        "place": "Chettinad, Sivaganga district, Tamil Nadu, India",
+        "era": "Early 20th century",
+        "time_of_day": "Golden hour, 5:30 PM",
+        "architecture": "Traditional Chettinad courtyard with carved teak wooden pillars, Athangudi tiles and a spacious entrance",
+        "festival": "Margazhi kolam tradition"
+    },
+    "textile": "Authentic Chettinad Kandangi cotton saree",
+    "lighting": "Soft natural dawn light with warm brass lamp illumination",
+    "camera": {
+        "shot": "Close-up",
+        "lens": "35mm",
+        "angle": "Eye-level"
+    },
+    "palette": [
+        "Terracotta red",
+        "Traditional earthy brown",
+        "Warm golden yellow",
+        "Natural white"
+    ],
+    "style": "Ultra-realistic cinematic documentary photography, authentic Tamil cultural details, natural textures and realistic human proportions",
+    "aspect_ratio": "16:9",
+    "avoid": [
+        "Modern buildings",
+        "Western clothing",
+        "Unrelated religious symbols",
+        "Fantasy architecture",
+        "Cartoon appearance",
+        "Plastic-looking skin",
+        "Distorted hands",
+        "Extra fingers",
+        "Watermarks",
+        "Unnatural colours"
+    ],
+    "motion": {
+        "subject_motion": "The Tamil woman slowly draws a traditional kolam using rice flour while her saree moves gently in the morning breeze",
+        "camera_move": "Slow cinematic push-in towards the kolam",
+        "duration_seconds": 5
+    }
+}
